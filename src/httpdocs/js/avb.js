@@ -41,8 +41,9 @@ avb.currentNode = {}; // currently selected node
 // first datapoint
 avb.firstYear = null;
 // last datapoint
-avb.lastYear = 2014;
-avb.currentYear = new Date().getFullYear();
+avb.lastYear = null;
+//avb.currentYear = new Date().getFullYear();
+avb.currentYear = 2014;
 avb.thisYear = avb.currentYear;
 
 // amount of yearly taxes spent by user
