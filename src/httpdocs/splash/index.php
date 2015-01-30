@@ -52,7 +52,7 @@
 				</div>
 				<div class='header-right span6'>
 					<p>
-						a collaborative web effort brought to you by:
+						a collaboratively web effort brought to you by:
 					</p>									
 					<a href="http://www.codeforasheville.org" target="_blank">
 						Code for Asheville
