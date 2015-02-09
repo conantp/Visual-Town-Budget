@@ -1,8 +1,7 @@
 Budget Visualization Framework
 ======== 
-Asheville Test Server: http://192.184.83.103/
 
-Adapted for Asheville - final development is underway, this document will be updated soon! 
+Adapted for Asheville, NC.  
 
 ![screenshot](https://raw.github.com/goinvo/Visual-Town-Budget/develop/docs/img/example_screenshot.png)
 Open-source budget visualization framework.
