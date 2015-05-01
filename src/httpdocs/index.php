@@ -4,8 +4,8 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
-  <title>Asheville Visual Budget</title>
-  <meta name="description" content="An interactive tool to learn more about the city of Asheville, North Carolina." />
+  <title>Raleigh Visual Budget</title>
+  <meta name="description" content="An interactive tool to learn more about the budget of the City of Raleigh, North Carolina." />
 
  
   <?php
