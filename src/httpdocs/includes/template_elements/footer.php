@@ -7,12 +7,12 @@
             <p>
               a collaborative web effort <br> brought to you by:
             </p>                  
-            <a href="http://www.codeforasheville.org" target="_blank">
-              Code for Asheville
+            <a href="http://www.raleighnc.gov" target="_blank">
+              The City of Raleigh
             </a>
             <span>&</span>
-            <a href="http://www.ashevillenc.gov" target="_blank">
-              The City of Asheville
+            <a href="http://www.codeforasheville.org/" target="_blank">
+              Code for Asheville
             </a>
           </div>
           <!-- FOOTER COLUMN 2 --> 
