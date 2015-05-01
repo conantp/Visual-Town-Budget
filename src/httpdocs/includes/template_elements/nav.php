@@ -12,18 +12,12 @@
     </a>
   </li>
   <li>
-    <a href="/resources/resources.php">
+    <a href="http://www.raleighnc.gov/government/content/BudgetManagement/Articles/BudgetsAndProcess.html">
       <img src="/img/db-icon.png" alt='bulb icon'/>
-      Resources 
+      Budget Process 
     </a>
   </li>
-  <li>
-    <a href="/about">
-      <img src="/img/pencil-icon.png" alt='bulb icon'/>
-      About this Project
-    </a>
-  </li>      
-  <li>
+   <li>
     <a style="" href="https://docs.google.com/forms/d/1oqbJ_RqX8NRNTPsUe3K67VG0BB6Js8yZkYe8fnLnSCk/viewform?usp=send_form" target="_blank">
       <img src="/img/feedback-nav.png" alt='feedback icon'/>
       Feedback
