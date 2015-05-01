@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Asheville, NC Budget App |  A Code for Asheville Creation</title>
-  <meta name='description' content='Government budgets can be tough to understand, but now the City of Asheville, North Carolina is providing the next generation of accessibility in financial information that allows citizens to view, engage, and discuss.'>
+  <title>Raleigh, NC Budget Visualization</title>
+  <meta name='description' content='Government budgets can be tough to understand, but now the City of Raleigh, North Carolina is providing the next generation of accessibility in financial information that allows citizens to view, engage, and discuss.'>
   <?php include '../includes/template_elements/resources.php'; ?>
   
   <!-- PAGE SPECIFIC CSS -->
@@ -45,12 +45,12 @@
           <img src="/img/slides/slide1.jpg" />
             <div class="slide-overlay">
               <div>
-                <h2>City Council Budget Goals For 2014-2015</h2>
+                <h2>City Council Budget Goals For 2015-2016</h2>
                 <p>
 		  <ul>
 		    <li>Employee compensation &amp; managed savings</li>
 		    <li>Police strategic plan</li>
-		    <li>Asheville redefines transit</li>
+		    <li>Raleigh redefines transit</li>
 		    <li>Graffiti initiative</li>
 		  </ul>
                 </p>
@@ -115,7 +115,7 @@
                 <h2>Staffing Highlights</h2>
                 <p>
 		  <ul>
-		    <li>Additional 5 FTE positions are budgeted for FY 2014-15 budget</li>
+		    <li>Additional X FTE positions are budgeted for FY 2015-16 budget</li>
 		    <li>Otherwise position counts are unchanged</li>
 		    <li>Cost of Living increase of 3% for existing staff </li>
 		  </ul>
