@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Asheville, NC Budget App | A Code for Asheville Creation</title>
-	<meta name='description' content='Asheville Budget App'>
+	<title>Raleigh, NC Budget Visualization</title>
+	<meta name='description' content='Raleigh Budget App'>
 	<?php include '../includes/template_elements/resources.php'; ?>
 </head>
 <body class="about">
@@ -17,11 +17,11 @@
 				<div class="span8">
 					<h1>About This Project</h1>
 					<p>
-This site, a volunteer collaboration between <a href="http://codeforasheville.org/" target="_blank">Code for
-Asheville</a> and the <a href="http://www.ashevillenc.gov/" target="_blank">City of Asheville</a>, is an experiment in civic
-engagement and open government that we are releasing in conjunction
-with the City’s 2014/2015 Proposed Budget (and will update when the
-final budget is adopted). The site is not intended to
+This site is an Open Raleigh initiative that grew out of a collaboration between <a href="http://codeforasheville.org/" target="_blank">Code for
+Asheville</a> and the <a href="http://www.ashevillenc.gov/" target="_blank">City of Asheville</a> in 2014. We built on this experiment in civic
+engagement and open government in conjunction
+with the City of Raleigh’s Budget Office for the FY 2015/2016 Proposed Budget. We will update when the
+final budget is adopted. The site is not intended to
 be any kind of final product. We see it rather as a contribution to
 the conversation within the Asheville community and between the
 community and the government which serves it.
