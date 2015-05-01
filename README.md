@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CORaleigh/Visual-Town-Budget.png?label=ready&title=Ready)](https://waffle.io/CORaleigh/Visual-Town-Budget)
 Budget Visualization Framework
 ======== 
 
