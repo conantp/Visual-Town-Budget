@@ -2,7 +2,9 @@
 RewriteEngine on 
 RewriteBase /
 
-RewriteRule ^$ /splash/
+# Resolves #7 - Make "Show me the Money" the home page - starts with revenues
+RewriteRule ^$ index.php?page=revenues
+#RewriteRule ^$ index.php?page=expenses # if you want expenses to be the homepage
 
 RewriteRule ^home$ index.php
 
