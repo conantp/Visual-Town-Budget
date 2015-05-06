@@ -6,8 +6,10 @@
     </a>
   </li>
   <li>
+
     <a href="index.php">
       <img src="img/money-icon.png" alt='bulb icon'/>
+
       Show me the Money
     </a>
   </li>
