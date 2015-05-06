@@ -19,7 +19,7 @@ $(document).ready(initialize);
 </script>
   <!-- BOOTSTRAP -->
 
-  <link href="/css/page.css" rel="stylesheet" type="text/css" />
+  <link href="css/page.css" rel="stylesheet" type="text/css" />
   <style type='text/css'>
 
   </style> 
