@@ -92,7 +92,12 @@ function initialize(){
     }
     avb.navbar.initialize();
     console.log(params);
-    if(/*params.section === undefined || params.section === "" || */params.section === "home") {
+    if (params.section === undefined || params.section === "")
+    {
+        params.section = "expenses";
+        initializeVisualizations(params);
+    }
+    else if(params.section === "home") {
         avb.home.initialize();
         avb.home.show();
     } else if($.inArray(params.section, avb.sections) > -1){
