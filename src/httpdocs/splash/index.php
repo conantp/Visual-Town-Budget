@@ -8,7 +8,7 @@
 
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 	<script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.2.2/js/bootstrap.min.js"></script>
-	<link href="/css/splash.css" rel="stylesheet">
+	<link href="../css/splash.css" rel="stylesheet">
 
 	<SCRIPT TYPE="text/javascript">
 	  <!--
@@ -62,7 +62,7 @@
 						The City of Asheville
 					</a>
 					<div class="CTA">
-						<a href="/resources/about.php" class="arrow-button">
+						<a href="../resources/about.php" class="arrow-button">
 							How Do I Get Involved?
 						</a>
 					</div>
@@ -76,17 +76,17 @@
 		<div class="wrapper container">
 			<div class="row">	
 				<div class="span2 section-icon offset1">
-				  <a href="whatsnew"><img src="../img/bulb-icon.png" alt="bulb icon" /></a>
+				  <a href="../whatsnew/index.php"><img src="../img/bulb-icon.png" alt="bulb icon" /></a>
 				</div>
 				<div class="span4">
 					<h3 class="section-header">
-						<a href="whatsnew" name="whatis">Tell Me What's New</a>
+						<a href="../whatsnew/index.php" name="whatis">Tell Me What's New</a>
 					</h3>
 				</div>
 				<div class="span5">
 					<ul class="link-list">
 						<li>
-						  <a href="whatsnew" class="">
+						  <a href="../whatsnew/index.php" class="">
 						    Explore What's New In 2014-2015 &#8594;
 						  </a>
 						</li>
@@ -104,17 +104,17 @@
 		<div class="wrapper container">
 			<div class="row">	
 				<div class="span2 section-icon offset1">
-				  <a href="expenses"><img src="../img/money-icon.png" alt="bulb icon" /></a>
+				  <a href="../index.php"><img src="../img/money-icon.png" alt="bulb icon" /></a>
 				</div>
 				<div class="span4">
 				  <h3 class="section-header">
-				    <a href="expenses" >Show Me the Money</a>
+				    <a href="../index.php" >Show Me the Money</a>
 					</h3>
 				</div>
 				<div class="span5">
 				  <ul class="link-list">
 				    <li>
-				      <a href="expenses" class="">
+				      <a href="../index.php" class="">
 					Visualize Asheville Spending &amp; Revenue &#8594;
 				      </a>
 				    </li>
@@ -132,17 +132,17 @@
 		<div class="wrapper container">
 			<div class="row">	
 				<div class="span2 section-icon offset1">
-				  <a href="/resources/resources.php"> <img src="../img/db-icon.png" alt="bulb icon" /></a>
+				  <a href="../resources/resources.php"> <img src="../img/db-icon.png" alt="bulb icon" /></a>
 				</div>
 				<div class="span4">
 				  <h3 class="section-header">
-				    <a name="whatis" href="/resources/resources.php">Resources</a>
+				    <a name="whatis" href="../resources/resources.php">Resources</a>
 				  </h3>
 				</div>
 				<div class="span5">
 					<ul class="link-list">
 						<li>
-							<a href="/resources/resources.php" class="">
+							<a href="../resources/resources.php" class="">
 							  The Gory Details &#8594;
 							</a>
 						</li>
@@ -165,13 +165,13 @@
 				</div>
 				<div class="span4">
 					<h3 class="section-header">
-						<a name="whatis" href="about">About This Project</a>
+						<a name="whatis" href="../resources/about.php">About This Project</a>
 					</h3>
 				</div>
 				<div class="span5">
 					<ul class="link-list">
 						<li>
-							<a href="/about" class="">
+							<a href="../resources/about.php" class="">
 								What's this about? &#8594;
 							</a>
 						</li>

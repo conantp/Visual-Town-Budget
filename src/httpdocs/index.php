@@ -19,7 +19,7 @@ $(document).ready(initialize);
 </script>
   <!-- BOOTSTRAP -->
 
-  <link href="/css/page.css" rel="stylesheet" type="text/css" />
+  <link href="css/page.css" rel="stylesheet" type="text/css" />
   <style type='text/css'>
 
   </style> 
@@ -35,9 +35,9 @@ $(document).ready(initialize);
     require_once 'includes/home.php';
     require_once 'includes/navbar.php';
     require_once 'includes/container.php';
-    require_once "includes/footer.php";
+    require_once 'includes/footer.php';
     require_once 'includes/templates.php';
-    require_once "includes/datafiles.php";
+    require_once 'includes/datafiles.php';
   ?>
 
 <script>

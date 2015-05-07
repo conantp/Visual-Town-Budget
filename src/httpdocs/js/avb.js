@@ -85,14 +85,19 @@ Number.prototype.px = function () {
 function initialize(){
     var urlComponents = window.location.pathname.substring(1).split('/');
     var params = {
-        section : urlComponents[0],
-        year : urlComponents[1],
-        mode : urlComponents[2],
-        node : urlComponents[3]
+        section : urlComponents[1],
+        year : urlComponents[2],
+        mode : urlComponents[3],
+        node : urlComponents[4]
     }
     avb.navbar.initialize();
     console.log(params);
-    if(params.section === undefined || params.section === "" || params.section === "home") {
+    if (params.section === undefined || params.section === "")
+    {
+        params.section = "expenses";
+        initializeVisualizations(params);
+    }
+    else if(params.section === "home") {
         avb.home.initialize();
         avb.home.show();
     } else if($.inArray(params.section, avb.sections) > -1){

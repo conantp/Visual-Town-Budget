@@ -3,8 +3,8 @@
     <div class="row header-area">   
       <div class="span3">
         <h1>
-          <a href="/expenses">
-            Raleigh City Budget
+          <a href="/Visual-Town-Budget/expenses">
+            City of Raleigh Budget
             2015-2016
           </a>
         </h1>
